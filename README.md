@@ -12,9 +12,6 @@ A simple program to palette swap Pokémon sprites
 ### Required packages
 1. Pillow
 
-### Examples
-(some results are certainly better than others)
-
 ![](examples/006to025.png?raw=true)
 ![](examples/121to348.png?raw=true)
 ![](examples/154to326.png?raw=true)
